@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051307206015",
+    "project_id": "christmasgames-f0852",
+    "storage_bucket": "christmasgames-f0852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051307206015:android:e2c415fa9d984df2e3664a",
+        "android_client_info": {
+          "package_name": "com.mark.christmasgamess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051307206015-uqcm0ivdi8248vblrf9q1duagsm4j61g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTLkKpDw5hue4AdU-cliBEHSn7nzZoFVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051307206015-uqcm0ivdi8248vblrf9q1duagsm4j61g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
